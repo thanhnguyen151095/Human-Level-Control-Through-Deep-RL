@@ -30,7 +30,7 @@ The contents will be updated soon!
 |_|_|
 |:---:|:---:|
 ![](Figures/DQN/PongNoFrameskip-v4.png)| ![](Figures/DQN/BoxingNoFrameskip-v4.png)|
-![](Figures/FetchPickAndPlace-v2.png)| ![](Figures/FetchSlide-v2.png)|
+![](Figures/DQN/KangarooNoFrameskip-v4.png)| ![](Figures/DQN/SpaceInvadersNoFrameskip-v4.png)|
 
 # Demos for Atari Games
 |Pong(Green)|Boxing(White)|
