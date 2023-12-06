@@ -16,9 +16,11 @@ where:
 - $s'$ is the next state,
 - $Q'(s', a'; \theta^-)$ is the target Q-value predicted by a target network with parameters $\theta^-$,
 - $\gamma$ is the discount factor.
-- 
+
+  
 **Figure 1:** The structure of DQN based on CNN. The input to NN includes an 84x84x4 image.
 ![Local Image](Figures/DQNforAtari.png)
+
 
 # Double DQN:
 
