@@ -11,11 +11,11 @@ The loss function of DQN is typically based on the temporal difference error:
 $$ \text{Loss} = \mathbb{E}\left[\left(r + \gamma \cdot \max_{a'} Q'(s', a'; \theta^-) - Q(s, a; \theta)\right)^2\right] $$
 
 where:
-- \(Q(s, a; \theta)\) is the Q-value predicted by the neural network with parameters \(\theta\) for the current state \(s\) and action \(a\),
-- \(r\) is the immediate reward,
-- \(s'\) is the next state,
-- \(Q'(s', a'; \theta^-)\) is the target Q-value predicted by a target network with parameters \(\theta^-\),
-- \(\gamma\) is the discount factor.
+- $Q(s, a; \theta)$ is the Q-value predicted by the neural network with parameters $\theta$ for the current state $s$ and action $a$,
+- $r$ is the immediate reward,
+- $s'$ is the next state,
+- $Q'(s', a'; \theta^-)$ is the target Q-value predicted by a target network with parameters $\theta^-$,
+- $\gamma$ is the discount factor.
 
 
 # Double DQN:
