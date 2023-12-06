@@ -17,6 +17,7 @@ where:
 - $Q'(s', a'; \theta^-)$ is the target Q-value predicted by a target network with parameters $\theta^-$,
 - $\gamma$ is the discount factor.
 
+![Local Image](Figures/DQNforAtari.png)
 
 # Double DQN:
 
