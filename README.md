@@ -8,7 +8,7 @@ The main algorithm which is developed in the origin paper is deep Q-network. DQN
 
 The loss function of DQN is typically based on the temporal difference error:
 
-\[ \text{Loss} = \mathbb{E}\left[\left(r + \gamma \cdot \max_{a'} Q'(s', a'; \theta^-) - Q(s, a; \theta)\right)^2\right] \]
+$$ \text{Loss} = \mathbb{E}\left[\left(r + \gamma \cdot \max_{a'} Q'(s', a'; \theta^-) - Q(s, a; \theta)\right)^2\right] $$
 
 where:
 - \(Q(s, a; \theta)\) is the Q-value predicted by the neural network with parameters \(\theta\) for the current state \(s\) and action \(a\),
