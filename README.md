@@ -37,4 +37,3 @@ The contents will be updated soon!
 |Pong(Green)|Boxing(White)|
 |:---:|:---:|:---:|:---:|
 ![](Videos/PongNoFrameskip-v4.gif)| ![](Videos/BoxingNoFrameskip-v4.gif)|![](Videos/BreakoutNoFrameskip-v4.gif)| ![](Videos/StarGunnerNoFrameskip-v4.gif)|
-![](Videos/BreakoutNoFrameskip-v4.gif)| ![](Videos/StarGunnerNoFrameskip-v4.gif)|
