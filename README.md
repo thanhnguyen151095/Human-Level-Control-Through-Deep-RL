@@ -35,6 +35,6 @@ The contents will be updated soon!
 
 # Demos for Atari Games
 |Pong(Green)|Boxing(White)|
-|:---:|:---:|
-![](Videos/PongNoFrameskip-v4.gif)| ![](Videos/BoxingNoFrameskip-v4.gif)|
-![](Videos/BreakoutNoFrameskip-v4.gif)| ![](Videos/BreakoutNoFrameskip-v4.gif)|
+|:---:|:---:|:---:|:---:|
+![](Videos/PongNoFrameskip-v4.gif)| ![](Videos/BoxingNoFrameskip-v4.gif)|![](Videos/BreakoutNoFrameskip-v4.gif)| ![](Videos/StarGunnerNoFrameskip-v4.gif)|
+![](Videos/BreakoutNoFrameskip-v4.gif)| ![](Videos/StarGunnerNoFrameskip-v4.gif)|
