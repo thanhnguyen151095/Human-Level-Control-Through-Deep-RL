@@ -31,9 +31,10 @@ The contents will be updated soon!
 |:---:|:---:|
 ![](Figures/DQN/PongNoFrameskip-v4.png)| ![](Figures/DQN/BoxingNoFrameskip-v4.png)|
 ![](Figures/DQN/KangarooNoFrameskip-v4.png)| ![](Figures/DQN/SpaceInvadersNoFrameskip-v4.png)|
+![](Figures/DQN/StarGunnerNoFrameskip-v4.png)| ![](Figures/DQN/BreakoutNoFrameskip-v4.png)|
 
 # Demos for Atari Games
 |Pong(Green)|Boxing(White)|
 |:---:|:---:|
 ![](Videos/PongNoFrameskip-v4.gif)| ![](Videos/BoxingNoFrameskip-v4.gif)|
-![](Figures/FetchPickAndPlace-v2.png)| ![](Figures/FetchSlide-v2.png)|
+![](Figures/BreakoutNoFrameskip-v4.gif)| ![](Figures/BreakoutNoFrameskip-v4.gif)|
