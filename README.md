@@ -34,6 +34,6 @@ The contents will be updated soon!
 ![](Figures/DQN/StarGunnerNoFrameskip-v4.png)| ![](Figures/DQN/BreakoutNoFrameskip-v4.png)|
 
 # Demos for Atari Games
-|Pong(Green)|Boxing(White)|
+|Pong(Green)|Boxing(White)|Breakout|StarGunner|
 |:---:|:---:|:---:|:---:|
 ![](Videos/PongNoFrameskip-v4.gif)| ![](Videos/BoxingNoFrameskip-v4.gif)|![](Videos/BreakoutNoFrameskip-v4.gif)| ![](Videos/StarGunnerNoFrameskip-v4.gif)|
